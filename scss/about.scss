@@ -1,0 +1,30 @@
+.about-wrapper {
+  width: 95%;
+  height: 100%;
+  display: flex;
+  margin: 0 auto;
+
+  .about {
+    height: 50%;
+    width: 95%;
+    margin: 0 auto;
+
+    img {
+      width: 600px;
+      height: 400px;
+      float: left;
+      margin-right: 20px;
+    }
+
+    h2 {
+      font-size: 50px;
+      margin-top: 70px;
+      margin-left: 30px;
+    }
+
+    p {
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+  }
+}

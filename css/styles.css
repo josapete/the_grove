@@ -105,6 +105,12 @@ p {
       margin-left: 30px; }
     .beverages-wrapper .beverages ul {
       margin-left: 50px; }
+    .beverages-wrapper .beverages .link {
+      font-size: 20px;
+      text-decoration: none;
+      font-weight: bold;
+      color: #ac8068;
+      margin-left: 30px; }
 
 .souffles-wrapper {
   width: 95%;
@@ -132,6 +138,12 @@ p {
       margin-left: 30px; }
     .souffles-wrapper .souffles ul {
       margin-left: 50px; }
+    .souffles-wrapper .souffles .link {
+      font-size: 20px;
+      text-decoration: none;
+      font-weight: bold;
+      color: #ac8068;
+      margin-left: 30px; }
 
 .baked-goods-wrapper {
   width: 95%;
@@ -159,3 +171,9 @@ p {
       margin-left: 30px; }
     .baked-goods-wrapper .baked-goods ul {
       margin-left: 50px; }
+    .baked-goods-wrapper .baked-goods .link {
+      font-size: 20px;
+      text-decoration: none;
+      font-weight: bold;
+      color: #ac8068;
+      margin-left: 30px; }
